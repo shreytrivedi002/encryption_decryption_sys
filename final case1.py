@@ -128,25 +128,4 @@ if input("Do you want to make a new account. Enter 'yes' or 'no' ") =="yes":
 else:
     finaly()
             
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                
+        ##
